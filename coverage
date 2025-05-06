@@ -1,0 +1,4 @@
+mode: set
+go-api-sonar/cmd/server/main.go:8.13,11.2 2 0
+go-api-sonar/api/math_handler.go:10.58,16.2 4 0
+go-api-sonar/internal/math/service.go:3.24,5.2 1 1
