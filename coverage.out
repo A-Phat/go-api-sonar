@@ -4,6 +4,7 @@ go-api-sonar/cmd/server/main.go:8.13,11.2 2 0
 go-api-sonar/internal/math/redundant.go:3.34,5.2 1 0
 go-api-sonar/internal/math/redundant.go:7.34,9.2 1 0
 go-api-sonar/internal/math/redundant.go:11.34,13.2 1 0
+go-api-sonar/internal/math/redundant.go:15.34,17.2 1 0
 go-api-sonar/internal/math/service.go:3.24,5.2 1 1
 go-api-sonar/internal/math/service.go:7.34,9.2 1 0
 go-api-sonar/internal/math/service.go:11.34,13.2 1 0

@@ -11,3 +11,7 @@ func RedundantAdd2(a, b int) int {
 func RedundantAdd3(a, b int) int {
 	return a + b
 }
+
+func RedundantAdd4(a, b int) int {
+	return a + b
+}
